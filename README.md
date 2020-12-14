@@ -16,4 +16,4 @@ hi，我是行侠仗义的小龙女，欢迎观看我的github page。
   
   - [博客园](https://www.cnblogs.com/zdping/)
   
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhaodengping)
