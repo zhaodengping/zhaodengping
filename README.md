@@ -12,8 +12,8 @@ hi，我是行侠仗义的小龙女，欢迎观看我的github page。
 
 - 😄 如有更多的喜欢，请关注我的其他博客
 
-  1. [掘金](https://juejin.cn/user/1099167356162302)
+  - [掘金](https://juejin.cn/user/1099167356162302)
   
-  2. [博客园](https://www.cnblogs.com/zdping/)
+  - [博客园](https://www.cnblogs.com/zdping/)
   
-https://github-readme-stats.vercel.app/api?username=zhaodengping&show_icons=true&theme=radical
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical)
